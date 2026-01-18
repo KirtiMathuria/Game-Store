@@ -1,0 +1,299 @@
+{
+  "users": [
+    {
+      "id": "85b5",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "role": "admin"
+    },
+    {
+      "id": "7d6e8a35-03a3-48b4-a08a-68eecc87e380",
+      "username": "Akshay",
+      "email": "a@gmail.com",
+      "password": "a@123",
+      "role": "user"
+    },
+    {
+      "id": "42c2",
+      "username": "Kirti",
+      "email": "kirtimathuria6@gmail.com",
+      "password": "kirti@123",
+      "role": "user"
+    },
+    {
+      "id": "2efc",
+      "username": "push",
+      "email": "push@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "pid": "ae586e4d-0cca-4609-9a3a-b1f4758b9a40"
+    },
+    {
+      "id": "9def",
+      "username": "akku",
+      "email": "akku@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "pid": "337ff158-cd8d-45ca-806d-a139be391e24"
+    }
+  ],
+  "games": [
+    {
+      "id": "g104",
+      "game_name": "The Legend of Zelda: Breath of the Wild",
+      "game_image": "https://wallpapercave.com/wp/wp2863893.jpg",
+      "price": 4990,
+      "genre": "Action / Adventure",
+      "platform": "Nintendo Switch",
+      "rating": 4.9,
+      "developer": "Nintendo"
+    },
+    {
+      "id": "g104",
+      "game_name": "Minecraft",
+      "game_image": "https://wallpapercave.com/wp/wp2674894.jpg",
+      "price": 1999,
+      "genre": "Sandbox",
+      "platform": "PC, Mobile, Console",
+      "rating": 4.7,
+      "developer": "Mojang"
+    },
+    {
+      "id": "g101",
+      "game_name": "GTA V",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+      "price": 2999,
+      "genre": "Action / Adventure",
+      "platform": "PC",
+      "rating": 4.8,
+      "developer": "Rockstar Games"
+    },
+    {
+      "id": "g102",
+      "game_name": "PUBG Battlegrounds",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+      "price": 0,
+      "genre": "Battle Royale",
+      "platform": "PC",
+      "rating": 4.5,
+      "developer": "Krafton"
+    },
+    {
+      "id": "g103",
+      "game_name": "God of War",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+      "price": 3999,
+      "genre": "Action / RPG",
+      "platform": "PC, PS5",
+      "rating": 4.9,
+      "developer": "Santa Monica Studio"
+    },
+    {
+      "id": "g104",
+      "game_name": "Red Dead Redemption 2",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+      "price": 3199,
+      "genre": "Action / Adventure",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.9,
+      "developer": "Rockstar Games"
+    },
+    {
+      "id": "g106",
+      "game_name": "The Witcher 3",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+      "price": 2199,
+      "genre": "Action / RPG",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.9,
+      "developer": "CD Projekt Red"
+    },
+    {
+      "id": "g107",
+      "game_name": "Elden Ring",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+      "price": 3499,
+      "genre": "Action / RPG",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.8,
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "g108",
+      "game_name": "Counter-Strike 2",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+      "price": 0,
+      "genre": "FPS",
+      "platform": "PC",
+      "rating": 4.7,
+      "developer": "Valve"
+    },
+    {
+      "id": "g109",
+      "game_name": "Dota 2",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+      "price": 0,
+      "genre": "MOBA",
+      "platform": "PC",
+      "rating": 4.6,
+      "developer": "Valve"
+    },
+    {
+      "id": "g110",
+      "game_name": "Apex Legends",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+      "price": 0,
+      "genre": "Battle Royale",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.4,
+      "developer": "Respawn Entertainment"
+    },
+    {
+      "id": "g111",
+      "game_name": "FIFA 23",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/header.jpg",
+      "price": 3999,
+      "genre": "Sports",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.2,
+      "developer": "EA Sports"
+    },
+    {
+      "id": "g112",
+      "game_name": "Call of Duty: MW II",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/header.jpg",
+      "price": 4999,
+      "genre": "FPS",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.3,
+      "developer": "Infinity Ward"
+    },
+    {
+      "id": "g113",
+      "game_name": "Assassin’s Creed Valhalla",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/header.jpg",
+      "price": 3599,
+      "genre": "Action / RPG",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.4,
+      "developer": "Ubisoft"
+    },
+    {
+      "id": "g114",
+      "game_name": "Far Cry 6",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/header.jpg",
+      "price": 3499,
+      "genre": "Action / Adventure",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.2,
+      "developer": "Ubisoft"
+    },
+    {
+      "id": "g115",
+      "game_name": "Among Us",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg",
+      "price": 199,
+      "genre": "Party / Strategy",
+      "platform": "PC, Mobile",
+      "rating": 4.6,
+      "developer": "Innersloth"
+    },
+    {
+      "id": "g116",
+      "game_name": "Horizon Zero Dawn",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg",
+      "price": 3299,
+      "genre": "Action / RPG",
+      "platform": "PC, PS5",
+      "rating": 4.7,
+      "developer": "Guerrilla Games"
+    },
+    {
+      "id": "g117",
+      "game_name": "Resident Evil 4",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+      "price": 4499,
+      "genre": "Horror / Action",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.8,
+      "developer": "Capcom"
+    },
+    {
+      "id": "g118",
+      "game_name": "Sekiro",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+      "price": 3799,
+      "genre": "Action",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.8,
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "g119",
+      "game_name": "Forza Horizon 5",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+      "price": 3999,
+      "genre": "Racing",
+      "platform": "PC, Xbox",
+      "rating": 4.7,
+      "developer": "Playground Games"
+    },
+    {
+      "id": "g120",
+      "game_name": "Need for Speed Heat",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222680/header.jpg",
+      "price": 2999,
+      "genre": "Racing",
+      "platform": "PC, PS5, Xbox",
+      "rating": 4.3,
+      "developer": "EA"
+    }
+  ],
+  "cart": [
+    {
+      "id": "g102",
+      "game_name": "PUBG Battlegrounds",
+      "game_image": "https://wallpapercave.com/wp/wp7855604.jpg",
+      "price": "81223",
+      "genre": "Battle Royale",
+      "platform": "PC",
+      "rating": 4.5,
+      "developer": "Krafton",
+      "userId": "42c2"
+    },
+    {
+      "id": "g102",
+      "game_name": "PUBG Battlegrounds",
+      "game_image": "https://wallpapercave.com/wp/wp7855604.jpg",
+      "price": "81223",
+      "genre": "Battle Royale",
+      "platform": "PC",
+      "rating": 4.5,
+      "developer": "Krafton",
+      "userId": "7d6e8a35-03a3-48b4-a08a-68eecc87e380"
+    },
+    {
+      "id": "g102",
+      "game_name": "PUBG Battlegrounds",
+      "game_image": "https://wallpapercave.com/wp/wp7855604.jpg",
+      "price": "81223",
+      "genre": "Battle Royale",
+      "platform": "PC",
+      "rating": 4.5,
+      "developer": "Krafton",
+      "userId": "2efc"
+    },
+    {
+      "id": "g101",
+      "game_name": "GTA V",
+      "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+      "price": 2999,
+      "genre": "Action / Adventure",
+      "platform": "PC",
+      "rating": 4.8,
+      "developer": "Rockstar Games",
+      "userId": "2efc"
+    }
+  ]
+}
