@@ -4,7 +4,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 import Layout from './Pages/Layout'
 
-import SignUp from './Pages/SignUp'
+import SignUp from './Pages/Signup'
 
 import Login from './Pages/Login'
 import Cart from './Pages/Cart'
@@ -44,7 +44,7 @@ const App = () => {
         },
         {
           path: '/signup',
-          element: <SignUp />
+          element: <Signup />
         },
         {
           path: '/cart',
