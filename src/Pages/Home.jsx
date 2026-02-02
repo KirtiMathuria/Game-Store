@@ -1,8 +1,8 @@
 
-import Carousel from '../components/Carousel'
+import Carousel from '../Components/Carousel'
 
-import MidBanner from '../components/MidBanner'
-import Features from '../components/Features'
+import MidBanner from '../Components/MidBanner'
+import Features from '../Components/Features'
 
 const Home = () => {
   
