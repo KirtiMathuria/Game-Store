@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { v4 as randomId } from 'uuid'
 
-const Signup = () => {
+const SignUp = () => {
   const navigate = useNavigate()
 
   const [formData, setFormData] = useState({
@@ -150,4 +150,4 @@ const Signup = () => {
   )
 }
 
-export default Signup
+export default SignUp
