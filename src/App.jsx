@@ -44,7 +44,7 @@ const App = () => {
         },
         {
           path: '/signup',
-          element: <Sign/>
+          element: <Sign />
         },
         {
           path: '/cart',
